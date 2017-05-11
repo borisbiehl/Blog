@@ -1,5 +1,4 @@
 public class RandomWalkerCavegen {
-	
 	private static final int MAX_ITERATIONS = 50000;
 	private static final char WALL = '#';
 	private static final char FLOOR = '.';
